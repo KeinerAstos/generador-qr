@@ -1,0 +1,6 @@
+functions-framework==3.3.0
+Flask==2.3.2
+Flask-Cors==3.0.10
+qrcode==7.4.2
+pypng==0.20220715.0
+Pillow==10.3.0

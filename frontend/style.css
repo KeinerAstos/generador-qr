@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 60px;
+}
+.container {
+  width: 90%;
+  max-width: 400px;
+  margin: auto;
+}
+#result img {
+  margin-top: 20px;
+  width: 200px;
+  height: 200px;
+}
+.hidden {
+  display: none;
+}
