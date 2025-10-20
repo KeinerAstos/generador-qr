@@ -117,8 +117,7 @@ serverless-qr/
   Abre el archivo `index.html` en el navegador y envía texto o URL para generar el código QR.
 
 ---
-
-## 📸 Capturas de pantalla del funcionamiento
+![alt text](image.png)
 
 1. **Estructura del proyecto local.**  
 2. **Despliegue exitoso en la terminal (status: ACTIVE).**  

@@ -13,7 +13,6 @@ def generate_qr(request):
 
         if not data:
             return {"error": "No data provided"}, 400
-
         # Generar QR
         qr = qrcode.make(data)
         buffered = BytesIO()
